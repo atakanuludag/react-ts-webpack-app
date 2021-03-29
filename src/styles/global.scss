@@ -1,0 +1,10 @@
+//Bootstrap kurduysanız bu şekilde import edebilirsiniz;
+@import "~bootstrap/scss/bootstrap";
+@import "./app";
+
+html,
+body {
+  font-family: Arial,sans-serif;
+  padding: 0;
+  margin: 0;
+}
